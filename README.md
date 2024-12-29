@@ -28,6 +28,4 @@ ART-Analysis-Project/
 │
 ├── data/                   # Contains raw and processed datasets
 ├── notebooks/              # Python Jupyter notebooks for analysis
-├── visualizations/         # Saved plots and Tableau dashboards
-├── scripts/                # Python scripts for cleaning and analysis
 └── README.md               # Project documentation
